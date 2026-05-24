@@ -125,7 +125,7 @@ The financial system and traditional e-commerce networks push the anxiety of sec
 MOS injects economic and existential security directly into the marrow of the operating system via a native, **Decentralized Blockchain Core**:
 *   **Immutable Integrity:** All critical message routing, permission tokens, and asset transfers within the MOS ecosystem are bound to an immutable ledger, permanently choking off clandestine fraud routes and money laundering networks.
 *   **Wallet Hardening:** Digital wallets are forged directly into the OS kernel, shielded by the military-grade *Default-Deny* security model of the local NoSQL engine. Ransomware dies of starvation because it is mathematically blind to the system's data structures.
-*   **Fraud Impossibility:** Nenhuma compra, transação ou transferência não solicitada é matematicamente possível no MOS. Cada movimentação exige um token de assinatura criptográfica inforjável gerado exclusivamente a partir do consentimento explícito do usuário através da interface soberana. Suas carteiras online estarão protegidas por criptografia intransponível.
+*   **Fraud Impossibility:** No unsolicited purchase, transaction, or transfer is mathematically possible on MOS. Every movement requires an unforgeable cryptographic signature token generated exclusively from the user's explicit consent through the sovereign interface. Your online wallets will be protected by impenetrable cryptography.
 
 ---
 
