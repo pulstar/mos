@@ -66,6 +66,14 @@ MOS completely dissolves folder geometry through **Content-Addressable Storage (
 *   **Absolute Deduplication with Controlled Redundancy:** If you have ten copies of the same 4 GB file scattered across your workflows, MOS stores only one single physical copy on the silicon. However, the system provides the option to generate multiple distributed copies to guarantee hardware-level data integrity wherever free disk space is available. The user retains safety control; the ghost waste is eliminated.
 *   **Ingestion of Legacy Volumes:** MOS maintains surgical backward compatibility during data ingest. It natively reads and mounts legacy storage systems (such as FAT, NTFS, and ext4). Upon intercepting these archaic structures, MOS performs a raw ingest and triggers an automatic background conversion, transpiling decaying, obsolete file formats into sleek, compressed, modern equivalents native to the system.
 
+| Legacy / Obsolete Format | MOS Modern Native Target |
+| :--- | :--- |
+| **BMP, TIFF, PCX** | WebP / AVIF *(Lossless or optimized vector paths)* |
+| **AVI, MOV, WMV, MPEG** | MKV *(Containerized with AV1 video codec)* |
+| **WAV, MP3, WMA** | Opus / OGG *(High-fidelity psychoacoustic compression)* |
+| **XML, INI, Property Lists** | JSON *(Native OS serialization schema)* |
+| **DOC, RTF, WordPerfect** | Markdown / JSON Structured Content |
+
 ---
 
 ## 6. THE GRAPHICAL THEATER OF FLOATING BOXES
